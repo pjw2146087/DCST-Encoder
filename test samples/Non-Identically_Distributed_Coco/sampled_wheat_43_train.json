@@ -1,0 +1,103 @@
+{
+    "info": {
+        "description": "This is a coco gnss data",
+        "version": "1.0",
+        "year": 2024,
+        "contributor": "Hero",
+        "date_created": "2024-07-15 10:49:55.545713"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "name": "Example License"
+        }
+    ],
+    "trajectories": [
+        {
+            "id": 0,
+            "index": null,
+            "file_name": "wheat_1_harvestor_96.xlsx",
+            "license": 1
+        },
+        {
+            "id": 1,
+            "index": null,
+            "file_name": "wheat_1_harvestor_49.xlsx",
+            "license": 1
+        },
+        {
+            "id": 2,
+            "index": null,
+            "file_name": "wheat_1_harvestor_46.xlsx",
+            "license": 1
+        },
+        {
+            "id": 3,
+            "index": null,
+            "file_name": "wheat_1_harvestor_17.xlsx",
+            "license": 1
+        },
+        {
+            "id": 4,
+            "index": null,
+            "file_name": "wheat_1_harvestor_149.xlsx",
+            "license": 1
+        },
+        {
+            "id": 5,
+            "index": null,
+            "file_name": "wheat_1_harvestor_106.xlsx",
+            "license": 1
+        }
+    ],
+    "adjs": [
+        {
+            "id": 0,
+            "index": null,
+            "file_name": "wheat_1_harvestor_96.npy",
+            "license": 1
+        },
+        {
+            "id": 1,
+            "index": null,
+            "file_name": "wheat_1_harvestor_49.npy",
+            "license": 1
+        },
+        {
+            "id": 2,
+            "index": null,
+            "file_name": "wheat_1_harvestor_46.npy",
+            "license": 1
+        },
+        {
+            "id": 3,
+            "index": null,
+            "file_name": "wheat_1_harvestor_17.npy",
+            "license": 1
+        },
+        {
+            "id": 4,
+            "index": null,
+            "file_name": "wheat_1_harvestor_149.npy",
+            "license": 1
+        },
+        {
+            "id": 5,
+            "index": null,
+            "file_name": "wheat_1_harvestor_106.npy",
+            "license": 1
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "field",
+            "supercategory": ""
+        },
+        {
+            "id": 2,
+            "name": "road",
+            "supercategory": ""
+        }
+    ]
+}
